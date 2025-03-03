@@ -5,3 +5,6 @@
 
 <h3>Ass 2:-<br/> RSA algorithm implementation using python
 </h3>
+
+<h3>Ass 3:-<br/> Deffie Hellman algorithm implementation using python
+</h3>
