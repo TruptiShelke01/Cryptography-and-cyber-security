@@ -14,6 +14,6 @@
 <h3>Ass 5:-<br/>Configure and demonstrate use of vulnerability assessment tool such as NESSUS
 </h3>
 
-<h3>Ass 6:-Implement web security with Open SSL tool kit.
+<h3>Ass 6:-<br/>Implement web security with Open SSL tool kit.
 </h3>
 
