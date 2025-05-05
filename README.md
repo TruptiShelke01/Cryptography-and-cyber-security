@@ -17,3 +17,7 @@
 <h3>Ass 6:-<br/>Implement web security with Open SSL tool kit.
 </h3>
 
+<h3>Ass 7:-<br/>Password Cracking Using Various tools
+  Tools Used:- John the Ripper, Hashcat , KRyLack Zip
+</h3>
+
